@@ -1,0 +1,24 @@
+Opening file... 
+Choose language: en
+Input text:  A mal tiempo buena cara
+
+Translated text:  Bad weather good face
+
+Input text:  trouble de la tete
+
+Translated text:  head disorder
+
+Input text:  Estoy comiendo galletas, y son deliciosos
+
+Translated text:  I'm eating cookies, and they're delicious
+
+Input text:  Ich möchte gern Sterne sehen, aber ich kann nicht im Stad
+
+Translated text:  I would like to see stars, but I can't be in the city
+
+Input text:  Ich bin Eine Berliner
+
+Translated text:  I am A Berliner
+
+Input text:  私のホバークラフトは鰻でいっぱいです
+Translated text:  My hovercraft is full of salmon
